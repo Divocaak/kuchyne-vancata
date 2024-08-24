@@ -4,10 +4,12 @@
 </script>
 
 <div style="--height: {height}">
-	<div class="p-5 color-dark">
-		<slot></slot>
-	</div>
 	<img src={imgPath} alt={imgPath} />
+	<div class="color-dark">
+		<div>
+			<slot></slot>
+		</div>
+	</div>
 </div>
 
 <style>
@@ -25,36 +27,32 @@
 
 	div div {
 		position: absolute;
-		left: 0;
+		right: 0;
 		height: 100%;
 		width: var(--fade-position);
 		z-index: 2;
 		background: linear-gradient(
-			90deg,
-			var(--light) var(--fade-position),
+			-90deg,
+			var(--semi) var(--fade-position),
 			rgba(255, 255, 255, 0) 100%
 		);
 	}
 
 	div img {
 		position: absolute;
-		right: 0;
+		left: 0;
 		z-index: 1;
 		min-width: calc(100% - var(--fade-position));
 		height: 100%;
 	}
 
 	@media (max-width: 768px) {
-		div{
-			height: auto;
-		}
-
 		div div {
 			position: relative;
 			height: 100%;
 			width: 100%;
 			z-index: 2;
-			background: var(--light);
+			background: var(--semi);
 		}
 
 		div img {

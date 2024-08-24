@@ -1,8 +1,8 @@
 <script>
-	import PanelLeft from '$lib/panelLeft.svelte';
+	import PanelLeft from '$lib/PanelLeft.svelte';
 </script>
 
-<PanelLeft imgPath="/tst.jpg" height="130vh">
+<PanelLeft imgPath="/pics/0.jpg" height="130vh">
 	<h1 class="noto-sans-bolder">Co vás čeká?</h1>
 	<h2 class="noto-sans-bolder">První konzultace</h2>
 	<p class="noto-sans-light lead">

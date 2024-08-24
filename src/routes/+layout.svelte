@@ -25,7 +25,7 @@
 
 <nav class="navbar navbar-expand-lg bg-body-tertiary">
 	<div class="container-fluid">
-		<span class="navbar-brand mb-0 h1">LOGO</span>
+		<img class="img-fluid navbar-brand mb-0" style="width:10%;" src="logo.png" alt="logo">
 		<button
 			class="navbar-toggler"
 			type="button"
@@ -46,7 +46,7 @@
 					<a class="nav-link noto-sans-regular" href="/flow">Co vás čeká?</a>
 				</li>
 				<li class="nav-item">
-					<a class="nav-link noto-sans-regular" href="/projects">Realizace</a>
+					<a class="nav-link noto-sans-regular" href="/gallery">Realizace</a>
 				</li>
 				<li class="nav-item">
 					<a class="nav-link noto-sans-regular" href="/about">O mně</a>
@@ -63,10 +63,9 @@
 
 <footer class="text-center" id="contact">
 	<div class="container p-4">
-		<div class="row">
+		<div class="row  d-flex flex-wrap align-items-center">
 			<div class="col-lg-6 col-md-12 mb-4 mb-md-0">
-				<h5 class="text-uppercase">tohle tu nebude</h5>
-				<p>bude tu logo</p>
+				<img src="/logo.png" alt="logo" class="img-fluid">
 			</div>
 			<div class="col-lg-6 col-md-12 mb-4 mb-md-0">
 				<p class="noto-sans-light contact">
@@ -77,10 +76,26 @@
 				</p>
 			</div>
 		</div>
-	</div>
-	<div class="text-center p-3">
-		© 2020 Copyright:
-		<a href="https://mdbootstrap.com/">MDBootstrap.com</a>
+		<div class="grants mt-5 pt-5">
+			<p class="noto-sans-light">
+				Realizovaný projekt Kreativní voucher s názvem: <b
+					>Marketinová kreativní kampaň pro lokálního truhláře</b
+				>, Registrační číslo projektu: <b>0461000910</b> je spolufinancován Evropskou unií z fondu Next
+				Generation EU. Účel projektu bylo vytvoření poutavé a kreativní marketingové kampaně pro lokálního
+				truhláře. Realizace projektu: 1.3. - 1.6. 2024
+			</p>
+			<div class="row d-flex flex-wrap align-items-center">
+				<div class="col-4">
+					<img class="img-fluid" src="/logos/eu.png" alt="eu logo" />
+				</div>
+				<div class="col-4">
+					<img class="img-fluid" src="/logos/mculture.jpg" alt="ministerstvo kultury logo" />
+				</div>
+				<div class="col-4">
+					<img class="img-fluid" src="/logos/npo.jpg" alt="národní plán obnovylogo" />
+				</div>
+			</div>
+		</div>
 	</div>
 </footer>
 
@@ -91,23 +106,23 @@
 		--semi: #c89c82;
 	}
 
-    :global(.color-light){
-        color: var(--light) !important;
-    }
+	:global(.color-light) {
+		color: var(--light) !important;
+	}
 
-    :global(.color-dark){
-        color: var(--dark) !important;
-    }
+	:global(.color-dark) {
+		color: var(--dark) !important;
+	}
 
 	a {
 		color: var(--light);
 		text-decoration: none;
-        transition: all ease-in-out .15s;
+		transition: all ease-in-out 0.15s;
 	}
 
-    a:hover{
-        color: var(--semi);
-    }
+	a:hover {
+		color: var(--semi);
+	}
 
 	nav {
 		background-color: var(--dark) !important;

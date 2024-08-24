@@ -1,9 +1,12 @@
 <script>
-	import PanelLeft from '$lib/panelLeft.svelte';
+	import PanelLeft from '$lib/PanelLeft.svelte';
+	import PanelRight from '$lib/PanelRight.svelte';
 </script>
 
-<!-- TODO logo panel -->
-<PanelLeft imgPath="/tst.jpg">
+<PanelRight imgPath="/pics/0.jpg">
+	<img src="/logo.png" alt="logo" class="img-fluid">
+</PanelRight>
+<PanelLeft imgPath="/pics/5.jpg">
 	<h2 class="noto-sans-bolder">Kuchyně z poctivých rukou</h2>
 	<p class="noto-sans-light lead">
 		Představte si kuchyň, která vám bude dělat<br />
