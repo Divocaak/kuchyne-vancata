@@ -21,11 +21,12 @@
 		href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@500&display=swap"
 		rel="stylesheet"
 	/>
+	<!-- Website coded and maintained by Vojtěch Divoký, divokyvojtech.cz -->
 </svelte:head>
 
 <nav class="navbar navbar-expand-lg bg-body-tertiary">
 	<div class="container-fluid">
-		<img class="img-fluid navbar-brand mb-0" style="width:10%;" src="logo.png" alt="logo">
+		<img class="img-fluid navbar-brand mb-0" style="width:10%;" src="/logo.png" alt="logo">
 		<button
 			class="navbar-toggler"
 			type="button"
