@@ -1,7 +1,7 @@
 <div class="gal-row p-1 p-md-5">
 	<div class="gal-col px-1 px-md-3">
 		<video class="mb-1 mb-md-4" autoplay muted controls loop preload>
-			<source src="/vids/0.mp4" type="video/mp4" />
+			<source src="/videos/0.mp4" type="video/mp4" />
 			Your browser does not support the video tag.
 		</video>
 		<img src="/pics/0.jpg" alt="gallery element" class="mb-1 mb-md-4" />
@@ -10,7 +10,7 @@
 	</div>
 	<div class="gal-col px-1 px-md-3">
 		<video class="mb-1 mb-md-4" autoplay muted controls loop preload>
-			<source src="/vids/1.mp4" type="video/mp4" />
+			<source src="/videos/1.mp4" type="video/mp4" />
 			Your browser does not support the video tag.
 		</video>
 		<img src="/pics/2.jpg" alt="gallery element" class="mb-1 mb-md-4" />
@@ -19,7 +19,7 @@
 	</div>
 	<div class="gal-col px-1 px-md-3">
 		<video class="mb-1 mb-md-4" autoplay muted controls loop preload>
-			<source src="/vids/2.mp4" type="video/mp4" />
+			<source src="/videos/2.mp4" type="video/mp4" />
 			Your browser does not support the video tag.
 		</video>
 		<img src="/pics/6.jpg" alt="gallery element" class="mb-1 mb-md-4" />
