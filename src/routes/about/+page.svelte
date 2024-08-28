@@ -1,4 +1,4 @@
-<div class="row color-dark p-5">
+<div class="row color-dark m-0 p-5">
 	<div class="col-12 col-md-8 p-2 p-md-5">
 		<h1 class="noto-sans-bolder">O mně</h1>
 		<p class="noto-sans-light">
@@ -18,10 +18,32 @@
 	<div class="col-12 col-md-4 p-5">
 		<img class="img-fluid" src="/vancata.jpg" alt="vancata" />
 	</div>
+	<div class="col-12 col-md-4">
+		<video class="" autoplay muted controls loop preload>
+			<source src="/videos/0.mp4" type="video/mp4" />
+			Your browser does not support the video tag.
+		</video>
+	</div>
+	<div class="col-12 col-md-4">
+		<video class="" muted controls loop preload>
+			<source src="/videos/1.mp4" type="video/mp4" />
+			Your browser does not support the video tag.
+		</video>
+	</div>
+	<div class="col-12 col-md-4">
+		<video class="" muted controls loop preload>
+			<source src="/videos/2.mp4" type="video/mp4" />
+			Your browser does not support the video tag.
+		</video>
+	</div>
 </div>
 
 <style>
 	div {
 		background-color: var(--light);
+	}
+
+	video{
+		width: 100%;
 	}
 </style>
