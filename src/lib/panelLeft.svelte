@@ -3,7 +3,7 @@
 	export let height = 'auto';
 </script>
 
-<div style="--height: {height}">
+<div class="m-0" style="--height: {height}">
 	<div class="p-5 color-dark">
 		<slot></slot>
 	</div>

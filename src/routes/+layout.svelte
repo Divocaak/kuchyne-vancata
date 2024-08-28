@@ -26,7 +26,7 @@
 
 <nav class="navbar navbar-expand-lg bg-body-tertiary">
 	<div class="container-fluid">
-		<img class="img-fluid navbar-brand mb-0" style="width:10%;" src="/logo.png" alt="logo">
+		<img class="img-fluid navbar-brand mb-0" style="width:10%;" src="/logo.png" alt="logo" />
 		<button
 			class="navbar-toggler"
 			type="button"
@@ -63,38 +63,36 @@
 <slot></slot>
 
 <footer class="text-center" id="contact">
-	<div class="container p-4">
-		<div class="row  d-flex flex-wrap align-items-center">
-			<div class="col-lg-6 col-md-12 mb-4 mb-md-0">
-				<img src="/logo.png" alt="logo" class="img-fluid">
-			</div>
-			<div class="col-lg-6 col-md-12 mb-4 mb-md-0">
-				<p class="noto-sans-light contact">
-					Petr Vančata<br />
-					Soběslav, 392 01<br />
-					<a href="tel:+420723522223">+420 723 522 223</a><br />
-					<a href="mailto:petrvancata@email.cz">petrvancata@email.cz</a>
-				</p>
-			</div>
+	<div class="row p-4 d-flex flex-wrap align-items-center">
+		<div class="col-lg-6 col-md-12 mb-4 mb-md-0">
+			<img src="/logo.png" alt="logo" class="img-fluid" />
 		</div>
-		<div class="grants mt-5 pt-5">
-			<p class="noto-sans-light">
-				Realizovaný projekt Kreativní voucher s názvem: <b
-					>Marketinová kreativní kampaň pro lokálního truhláře</b
-				>, Registrační číslo projektu: <b>0461000910</b> je spolufinancován Evropskou unií z fondu Next
-				Generation EU. Účel projektu bylo vytvoření poutavé a kreativní marketingové kampaně pro lokálního
-				truhláře. Realizace projektu: 1.3. - 1.6. 2024
+		<div class="col-lg-6 col-md-12 mb-4 mb-md-0">
+			<p class="noto-sans-light contact">
+				Petr Vančata<br />
+				Soběslav, 392 01<br />
+				<a href="tel:+420723522223">+420 723 522 223</a><br />
+				<a href="mailto:petrvancata@email.cz">petrvancata@email.cz</a>
 			</p>
-			<div class="row d-flex flex-wrap align-items-center">
-				<div class="col-4">
-					<img class="img-fluid" src="/logos/eu.png" alt="eu logo" />
-				</div>
-				<div class="col-4">
-					<img class="img-fluid" src="/logos/mculture.jpg" alt="ministerstvo kultury logo" />
-				</div>
-				<div class="col-4">
-					<img class="img-fluid" src="/logos/npo.jpg" alt="národní plán obnovylogo" />
-				</div>
+		</div>
+	</div>
+	<div class="mt-5 p-5" style="background-color:white;">
+		<p class="noto-sans-light text-dark">
+			Realizovaný projekt Kreativní voucher s názvem: <b
+				>Marketinová kreativní kampaň pro lokálního truhláře</b
+			>, Registrační číslo projektu: <b>0461000910</b> je spolufinancován Evropskou unií z fondu Next
+			Generation EU. Účel projektu bylo vytvoření poutavé a kreativní marketingové kampaně pro lokálního
+			truhláře. Realizace projektu: 1.3. - 1.6. 2024
+		</p>
+		<div class="row d-flex flex-wrap align-items-center">
+			<div class="col-4">
+				<img class="img-fluid" src="/logos/eu.png" alt="eu logo" />
+			</div>
+			<div class="col-4">
+				<img class="img-fluid" src="/logos/mculture.jpg" alt="ministerstvo kultury logo" />
+			</div>
+			<div class="col-4">
+				<img class="img-fluid" src="/logos/npo.jpg" alt="národní plán obnovylogo" />
 			</div>
 		</div>
 	</div>
@@ -136,6 +134,7 @@
 	footer {
 		background-color: var(--dark);
 		color: var(--light);
+		overflow: hidden;
 	}
 
 	:global(.noto-sans-light) {

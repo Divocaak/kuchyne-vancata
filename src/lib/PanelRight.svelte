@@ -3,7 +3,7 @@
 	export let height = 'auto';
 </script>
 
-<div style="--height: {height}">
+<div class="m-0"  style="--height: {height}">
 	<img src={imgPath} alt={imgPath} />
 	<div class="color-dark">
 		<div>
