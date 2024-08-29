@@ -78,11 +78,12 @@
 	</div>
 	<div class="mt-5 p-5" style="background-color:white;">
 		<p class="noto-sans-light text-dark">
-			Realizovaný projekt Kreativní voucher s názvem: <b
-				>Marketinová kreativní kampaň pro lokálního truhláře</b
-			>, Registrační číslo projektu: <b>0461000910</b> je spolufinancován Evropskou unií z fondu Next
-			Generation EU. Účel projektu bylo vytvoření poutavé a kreativní marketingové kampaně pro lokálního
-			truhláře. Realizace projektu: 1.3. - 1.6. 2024
+			Realizovaný projekt Kreativní voucher s názvem:
+			<b>Marketinová kreativní kampaň pro lokálního truhláře</b>, Registrační číslo projektu:
+			<b>0461000910</b>.<br />
+			Účel projektu bylo vytvoření poutavé a kreativní marketingové kampaně pro lokálního truhláře. Realizace
+			projektu: 1.3. - 1.6. 2024<br />
+			Financováno Evropskou unií <b>NEXT GENERATION</b>
 		</p>
 		<div class="row d-flex flex-wrap align-items-center">
 			<div class="col-4">
