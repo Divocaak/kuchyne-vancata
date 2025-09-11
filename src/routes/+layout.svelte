@@ -110,6 +110,9 @@
 			</div>
 		</div>
 	</div>
+	<div class="" style="background-color:white;">
+		<p class="text-end small m-0 p-0 pe-5">Coded and maintained by <a href="https://divokyvojtech.cz">Divoký Vojtěch</a></p>
+	</div>
 </footer>
 
 <style>
