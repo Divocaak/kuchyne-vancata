@@ -85,6 +85,19 @@
 			projektu: 1.3. - 1.6. 2024<br />
 			Financováno Evropskou unií <b>NEXT GENERATION</b>
 		</p>
+		<p class="noto-sans-light text-dark">
+			Realizovaný projekt Kreativní voucher s názvem:
+			<b
+				>Výroba kreativních materiálů na oslovení bývalých a potenciálních zákazníků - Kuchyně
+				Vančata</b
+			>,<br />
+			Účel projektu: Oslovit nové i stávající zákazníky pomocí videí s tipy, profesionálních fotografií
+			a newsletteru,<br />
+			které představí kuchyně i další nábytek na míru a posílí povědomí o značce.<br />
+			Registrační číslo projektu: <b>0464202065</b>.<br />
+			Realizace projektu: 1.6. - 31.8. 2025<br />
+			Financováno Evropskou unií - <b>Next Generation EU</b>
+		</p>
 		<div class="row d-flex flex-wrap align-items-center">
 			<div class="col-4">
 				<img class="img-fluid" src="/logos/eu.png" alt="eu logo" />

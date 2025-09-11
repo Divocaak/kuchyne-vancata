@@ -39,3 +39,51 @@
 	</p>
 	<h2 class="noto-sans-bolder">Veškeré konzultace a návrhy jsou zdarma.</h2>
 </PanelLeft>
+<div class="row color-dark m-0 p-5">
+	<div class="col-12 col-md-4">
+		<video class="" autoplay muted controls loop preload>
+			<source src="/videos/25/1.mp4" type="video/mp4" />
+			Your browser does not support the video tag.
+		</video>
+	</div>
+	<div class="col-12 col-md-4">
+		<video class="" muted controls loop preload>
+			<source src="/videos/25/2.mp4" type="video/mp4" />
+			Your browser does not support the video tag.
+		</video>
+	</div>
+	<div class="col-12 col-md-4">
+		<video class="" muted controls loop preload>
+			<source src="/videos/25/3.mp4" type="video/mp4" />
+			Your browser does not support the video tag.
+		</video>
+	</div>
+	<div class="col-12 col-md-4">
+		<video class="" muted controls loop preload>
+			<source src="/videos/25/4.mp4" type="video/mp4" />
+			Your browser does not support the video tag.
+		</video>
+	</div>
+	<div class="col-12 col-md-4">
+		<video class="" muted controls loop preload>
+			<source src="/videos/25/5.mp4" type="video/mp4" />
+			Your browser does not support the video tag.
+		</video>
+	</div>
+	<div class="col-12 col-md-4">
+		<video class="" muted controls loop preload>
+			<source src="/videos/25/6.mp4" type="video/mp4" />
+			Your browser does not support the video tag.
+		</video>
+	</div>
+</div>
+
+<style>
+	div {
+		background-color: var(--light);
+	}
+
+	video {
+		width: 100%;
+	}
+</style>
