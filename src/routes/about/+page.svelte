@@ -16,7 +16,7 @@
 		<p class="noto-sans-normal">Petr Vančata</p>
 	</div>
 	<div class="col-12 col-md-4 p-5">
-		<img class="img-fluid" src="/vancata.jpg" alt="vancata" />
+		<img class="img-fluid" src="/pics/25/18.JPG" alt="vancata" />
 	</div>
 	<div class="col-12 col-md-4">
 		<video class="" autoplay muted controls loop preload>

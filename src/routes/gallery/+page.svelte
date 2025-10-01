@@ -10,10 +10,10 @@
 		<img src="/pics/25/15.jpg" alt="gallery element" class="mb-1 mb-md-4" />
 		<img src="/pics/25/16.JPG" alt="gallery element" class="mb-1 mb-md-4" />
 		<img src="/pics/25/17.JPG" alt="gallery element" class="mb-1 mb-md-4" />
-		<img src="/pics/25/18.JPG" alt="gallery element" class="mb-1 mb-md-4" />
-		<img src="/pics/25/19.JPG" alt="gallery element" class="mb-1 mb-md-4" />
+		<!-- <img src="/pics/25/18.JPG" alt="gallery element" class="mb-1 mb-md-4" />
+		<img src="/pics/25/19.JPG" alt="gallery element" class="mb-1 mb-md-4" /> -->
 		<img src="/pics/25/2.jpg" alt="gallery element" class="mb-1 mb-md-4" />
-		<img src="/pics/25/20.JPG" alt="gallery element" class="mb-1 mb-md-4" />
+		<!-- <img src="/pics/25/20.JPG" alt="gallery element" class="mb-1 mb-md-4" /> -->
 		<img src="/pics/25/21.JPG" alt="gallery element" class="mb-1 mb-md-4" />
 		<img src="/pics/25/22.JPG" alt="gallery element" class="mb-1 mb-md-4" />
 		<img src="/pics/25/23.JPG" alt="gallery element" class="mb-1 mb-md-4" />
@@ -33,21 +33,21 @@
 		<img src="/pics/2.jpg" alt="gallery element" class="mb-1 mb-md-4" />
 		<img src="/pics/32.jpg" alt="gallery element" class="mb-1 mb-md-4" />
 		<img src="/pics/33.jpg" alt="gallery element" class="mb-1 mb-md-4" />
-		<img src="/pics/34.jpg" alt="gallery element" class="mb-1 mb-md-4" />
+		
 	</div>
 	<div class="gal-col px-1 px-md-3">
 		<img src="/pics/25/25.JPG" alt="gallery element" class="mb-1 mb-md-4" />
 		<img src="/pics/25/26.JPG" alt="gallery element" class="mb-1 mb-md-4" />
-		<img src="/pics/25/27.JPG" alt="gallery element" class="mb-1 mb-md-4" />
+		<!-- <img src="/pics/25/27.JPG" alt="gallery element" class="mb-1 mb-md-4" />
 		<img src="/pics/25/28.jpg" alt="gallery element" class="mb-1 mb-md-4" />
-		<img src="/pics/25/29.JPG" alt="gallery element" class="mb-1 mb-md-4" />
+		<img src="/pics/25/29.JPG" alt="gallery element" class="mb-1 mb-md-4" /> -->
 		<img src="/pics/25/3.jpg" alt="gallery element" class="mb-1 mb-md-4" />
-		<img src="/pics/25/30.jpg" alt="gallery element" class="mb-1 mb-md-4" />
+		<!-- <img src="/pics/25/30.jpg" alt="gallery element" class="mb-1 mb-md-4" />
 		<img src="/pics/25/31.JPG" alt="gallery element" class="mb-1 mb-md-4" />
 		<img src="/pics/25/32.JPG" alt="gallery element" class="mb-1 mb-md-4" />
 		<img src="/pics/25/33.JPG" alt="gallery element" class="mb-1 mb-md-4" />
 		<img src="/pics/25/34.JPG" alt="gallery element" class="mb-1 mb-md-4" />
-		<img src="/pics/25/35.JPG" alt="gallery element" class="mb-1 mb-md-4" />
+		<img src="/pics/25/35.JPG" alt="gallery element" class="mb-1 mb-md-4" /> -->
 		<img src="/pics/25/36.JPG" alt="gallery element" class="mb-1 mb-md-4" />
 		<img src="/pics/25/37.JPG" alt="gallery element" class="mb-1 mb-md-4" />
 		<img src="/pics/25/38.JPG" alt="gallery element" class="mb-1 mb-md-4" />
@@ -66,6 +66,12 @@
 		<img src="/pics/30.jpg" alt="gallery element" class="mb-1 mb-md-4" />
 		<img src="/pics/6.jpg" alt="gallery element" class="mb-1 mb-md-4" />
 		<img src="/pics/7.jpg" alt="gallery element" class="mb-1 mb-md-4" />
+		<img src="/pics/5.jpg" alt="gallery element" class="mb-1 mb-md-4" />
+		<img src="/pics/8.jpg" alt="gallery element" class="mb-1 mb-md-4" />
+		<img src="/pics/31.jpg" alt="gallery element" class="mb-1 mb-md-4" />
+		<img src="/pics/9.jpg" alt="gallery element" class="mb-1 mb-md-4" />
+		<img src="/pics/43.jpg" alt="gallery element" class="mb-1 mb-md-4" />
+		<img src="/pics/34.jpg" alt="gallery element" class="mb-1 mb-md-4" />
 	</div>
 	<div class="gal-col px-1 px-md-3">
 		<img src="/pics/25/41.JPG" alt="gallery element" class="mb-1 mb-md-4" />
@@ -97,12 +103,9 @@
 		<img src="/pics/40.jpg" alt="gallery element" class="mb-1 mb-md-4" />
 		<img src="/pics/41.jpg" alt="gallery element" class="mb-1 mb-md-4" />
 		<img src="/pics/42.jpg" alt="gallery element" class="mb-1 mb-md-4" />
-		<img src="/pics/43.jpg" alt="gallery element" class="mb-1 mb-md-4" />
+		
 		<img src="/pics/44.jpg" alt="gallery element" class="mb-1 mb-md-4" />
-		<img src="/pics/5.jpg" alt="gallery element" class="mb-1 mb-md-4" />
-		<img src="/pics/8.jpg" alt="gallery element" class="mb-1 mb-md-4" />
-		<img src="/pics/31.jpg" alt="gallery element" class="mb-1 mb-md-4" />
-		<img src="/pics/9.jpg" alt="gallery element" class="mb-1 mb-md-4" />
+		
 	</div>
 </div>
 
