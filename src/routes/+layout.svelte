@@ -98,17 +98,7 @@
 			Realizace projektu: 1.6. - 31.8. 2025<br />
 			Financováno Evropskou unií - <b>Next Generation EU</b>
 		</p>
-		<div class="row d-flex flex-wrap align-items-center">
-			<div class="col-4">
-				<img class="img-fluid" src="/logos/eu.png" alt="eu logo" />
-			</div>
-			<div class="col-4">
-				<img class="img-fluid" src="/logos/mculture.jpg" alt="ministerstvo kultury logo" />
-			</div>
-			<div class="col-4">
-				<img class="img-fluid" src="/logos/npo.jpg" alt="národní plán obnovylogo" />
-			</div>
-		</div>
+		<img class="img-fluid" src="/logos/logo.png" alt="eu logo" />
 	</div>
 	<div class="" style="background-color:white;">
 		<p class="text-end small m-0 p-0 pe-5">Coded and maintained by <a href="https://divokyvojtech.cz">Divoký Vojtěch</a></p>
