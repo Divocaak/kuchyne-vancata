@@ -1,5 +1,14 @@
 <div class="gal-row p-1 p-md-5 m-0">
 	<div class="gal-col px-1 px-md-3">
+		<img src="/pics/251201/20231128_114512.jpg" alt="gallery elemenet" class="mb-1 mb-md-4" />
+		<img src="/pics/251201/20231128_114521.jpg" alt="gallery elemenet" class="mb-1 mb-md-4" />
+		<img src="/pics/251201/20240827_160240.jpg" alt="gallery elemenet" class="mb-1 mb-md-4" />
+		<img src="/pics/251201/20240827_160251.jpg" alt="gallery elemenet" class="mb-1 mb-md-4" />
+		<img src="/pics/251201/20240827_160308.jpg" alt="gallery elemenet" class="mb-1 mb-md-4" />
+		<img src="/pics/251201/20240827_160312.jpg" alt="gallery elemenet" class="mb-1 mb-md-4" />
+		<img src="/pics/251201/20241009_162119.jpg" alt="gallery elemenet" class="mb-1 mb-md-4" />
+		<img src="/pics/251201/20241009_162122.jpg" alt="gallery elemenet" class="mb-1 mb-md-4" />
+		<img src="/pics/251201/20241009_162138.jpg" alt="gallery elemenet" class="mb-1 mb-md-4" />
 		<img src="/pics/25/0.jpg" alt="gallery element" class="mb-1 mb-md-4" />
 		<img src="/pics/25/1.jpg" alt="gallery element" class="mb-1 mb-md-4" />
 		<img src="/pics/25/10.jpg" alt="gallery element" class="mb-1 mb-md-4" />
@@ -10,10 +19,7 @@
 		<img src="/pics/25/15.jpg" alt="gallery element" class="mb-1 mb-md-4" />
 		<img src="/pics/25/16.JPG" alt="gallery element" class="mb-1 mb-md-4" />
 		<img src="/pics/25/17.JPG" alt="gallery element" class="mb-1 mb-md-4" />
-		<!-- <img src="/pics/25/18.JPG" alt="gallery element" class="mb-1 mb-md-4" />
-		<img src="/pics/25/19.JPG" alt="gallery element" class="mb-1 mb-md-4" /> -->
 		<img src="/pics/25/2.jpg" alt="gallery element" class="mb-1 mb-md-4" />
-		<!-- <img src="/pics/25/20.JPG" alt="gallery element" class="mb-1 mb-md-4" /> -->
 		<img src="/pics/25/21.JPG" alt="gallery element" class="mb-1 mb-md-4" />
 		<img src="/pics/25/22.JPG" alt="gallery element" class="mb-1 mb-md-4" />
 		<img src="/pics/25/23.JPG" alt="gallery element" class="mb-1 mb-md-4" />
@@ -31,23 +37,20 @@
 		<img src="/pics/18.jpg" alt="gallery element" class="mb-1 mb-md-4" />
 		<img src="/pics/19.jpg" alt="gallery element" class="mb-1 mb-md-4" />
 		<img src="/pics/2.jpg" alt="gallery element" class="mb-1 mb-md-4" />
-		<img src="/pics/32.jpg" alt="gallery element" class="mb-1 mb-md-4" />
-		<img src="/pics/33.jpg" alt="gallery element" class="mb-1 mb-md-4" />
-		
 	</div>
 	<div class="gal-col px-1 px-md-3">
+		<img src="/pics/251201/20241009_162155.jpg" alt="gallery elemenet" class="mb-1 mb-md-4" />
+		<img src="/pics/251201/20250512_180322.jpg" alt="gallery elemenet" class="mb-1 mb-md-4" />
+		<img src="/pics/251201/20251002_094602.jpg" alt="gallery elemenet" class="mb-1 mb-md-4" />
+		<img src="/pics/251201/20251002_094633.jpg" alt="gallery elemenet" class="mb-1 mb-md-4" />
+		<img src="/pics/251201/20251002_094652.jpg" alt="gallery elemenet" class="mb-1 mb-md-4" />
+		<img src="/pics/251201/20251002_094701.jpg" alt="gallery elemenet" class="mb-1 mb-md-4" />
+		<img src="/pics/251201/20251002_094706.jpg" alt="gallery elemenet" class="mb-1 mb-md-4" />
+		<img src="/pics/251201/20251002_094740.jpg" alt="gallery elemenet" class="mb-1 mb-md-4" />
+		<img src="/pics/251201/20251105_161002.jpg" alt="gallery elemenet" class="mb-1 mb-md-4" />
 		<img src="/pics/25/25.JPG" alt="gallery element" class="mb-1 mb-md-4" />
 		<img src="/pics/25/26.JPG" alt="gallery element" class="mb-1 mb-md-4" />
-		<!-- <img src="/pics/25/27.JPG" alt="gallery element" class="mb-1 mb-md-4" />
-		<img src="/pics/25/28.jpg" alt="gallery element" class="mb-1 mb-md-4" />
-		<img src="/pics/25/29.JPG" alt="gallery element" class="mb-1 mb-md-4" /> -->
 		<img src="/pics/25/3.jpg" alt="gallery element" class="mb-1 mb-md-4" />
-		<!-- <img src="/pics/25/30.jpg" alt="gallery element" class="mb-1 mb-md-4" />
-		<img src="/pics/25/31.JPG" alt="gallery element" class="mb-1 mb-md-4" />
-		<img src="/pics/25/32.JPG" alt="gallery element" class="mb-1 mb-md-4" />
-		<img src="/pics/25/33.JPG" alt="gallery element" class="mb-1 mb-md-4" />
-		<img src="/pics/25/34.JPG" alt="gallery element" class="mb-1 mb-md-4" />
-		<img src="/pics/25/35.JPG" alt="gallery element" class="mb-1 mb-md-4" /> -->
 		<img src="/pics/25/36.JPG" alt="gallery element" class="mb-1 mb-md-4" />
 		<img src="/pics/25/37.JPG" alt="gallery element" class="mb-1 mb-md-4" />
 		<img src="/pics/25/38.JPG" alt="gallery element" class="mb-1 mb-md-4" />
@@ -72,8 +75,16 @@
 		<img src="/pics/9.jpg" alt="gallery element" class="mb-1 mb-md-4" />
 		<img src="/pics/43.jpg" alt="gallery element" class="mb-1 mb-md-4" />
 		<img src="/pics/34.jpg" alt="gallery element" class="mb-1 mb-md-4" />
+		<img src="/pics/32.jpg" alt="gallery element" class="mb-1 mb-md-4" />
 	</div>
 	<div class="gal-col px-1 px-md-3">
+		<img src="/pics/251201/20251105_161111.jpg" alt="gallery elemenet" class="mb-1 mb-md-4" />
+		<img src="/pics/251201/20251105_161207.jpg" alt="gallery elemenet" class="mb-1 mb-md-4" />
+		<img src="/pics/251201/20251105_161219.jpg" alt="gallery elemenet" class="mb-1 mb-md-4" />
+		<img src="/pics/251201/20251105_161335.jpg" alt="gallery elemenet" class="mb-1 mb-md-4" />
+		<img src="/pics/251201/IMG_9881.jpg" alt="gallery elemenet" class="mb-1 mb-md-4" />
+		<img src="/pics/251201/IMG_9882.jpg" alt="gallery elemenet" class="mb-1 mb-md-4" />
+		<img src="/pics/251201/IMG_9886.jpg" alt="gallery elemenet" class="mb-1 mb-md-4" />
 		<img src="/pics/25/41.JPG" alt="gallery element" class="mb-1 mb-md-4" />
 		<img src="/pics/25/42.JPG" alt="gallery element" class="mb-1 mb-md-4" />
 		<img src="/pics/25/43.JPG" alt="gallery element" class="mb-1 mb-md-4" />
@@ -103,9 +114,8 @@
 		<img src="/pics/40.jpg" alt="gallery element" class="mb-1 mb-md-4" />
 		<img src="/pics/41.jpg" alt="gallery element" class="mb-1 mb-md-4" />
 		<img src="/pics/42.jpg" alt="gallery element" class="mb-1 mb-md-4" />
-		
 		<img src="/pics/44.jpg" alt="gallery element" class="mb-1 mb-md-4" />
-		
+		<img src="/pics/33.jpg" alt="gallery element" class="mb-1 mb-md-4" />
 	</div>
 </div>
 
